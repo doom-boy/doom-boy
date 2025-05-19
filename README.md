@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
 <div align="center">
   <p> 
     <img height="200" src="https://i.redd.it/j09a9ty8rpob1.gif"  />
@@ -25,9 +27,6 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://www.linkedin.com/in/elijah-chan-cs/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="eechan@cpp.edu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=E-mail&logo=gmail&label=&color=097969&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
 
@@ -41,7 +40,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm a current student studying computer science. <br><br>- 🌱 I have a strong interest in data analytics, AI, and machine learning.<br>- 🔭 I’m currently working on earning certificates and some personal projects!<br>- 🎧 In my free time I enjoy listening to new music.<br>- 🌟 I'm always open to new opportunities so feel free to reach out!</p>
+<p align="left">I'm a current student studying computer science. <br><br>- 🌱 I have a strong interest in data analytics, AI, and machine learning.<br>- 🔭 I’m currently working on earning certificates and some personal projects!<br>- 🎧 In my free time I enjoy listening to new music.<br>- 🌟 I'm always open to new opportunities so feel free to reach out!<br><br>- 📫 How to reach me: <b>eechan@cpp.edu</b> or my Linkedin!</p>
 
 ###
 
