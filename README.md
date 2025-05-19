@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm a current student studying computer science. <br><br>- 🌱 I have a strong interest in data analytics, AI, and machine learning.<br>- 🔭 I’m currently working on earning certificates and some personal projects!<br>- 🎧 In my free time I enjoy listening to new music!</p>
+<p align="left">I'm a current student studying computer science. <br><br>- 🌱 I have a strong interest in data analytics, AI, and machine learning.<br>- 🔭 I’m currently working on earning certificates and some personal projects!<br>- 🎧 In my free time I enjoy listening to new music.<br>- 🌟 I'm always open to new opportunities so feel free to reach out!</p>
 
 ###
 
