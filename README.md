@@ -26,6 +26,9 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/elijah-chan-cs/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
+  <a href="eechan@cpp.edu" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=E-mail&logo=gmail&label=&color=097969&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
