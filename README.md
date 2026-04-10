@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="left">👩‍💻  I'm Elijah!</h3>
+<h3 align="left">Hi, I'm Elijah!</h3>
 
 ###
 
-<p align="left">I'm a current student studying computer science. <br><br>- 🌱 I have a strong interest in data analytics, AI, and machine learning.<br>- 🔭 I’m currently working on earning certificates and some personal projects!<br>- 🎧 In my free time I enjoy listening to new music.<br>- 🌟 I'm always open to new opportunities so feel free to reach out!<br><br>- 📫 How to reach me: <b>eechan@cpp.edu</b> or my Linkedin!</p>
+<p align="left">I'm a current student studying computer science and data science. <br><br>- I have a strong interest in data analytics, AI, and machine learning.<br>- I’m currently working on earning certificates and collaborative projects!<br>- In my free time I enjoy listening to new music & trying new food.<br>- I'm always open to new opportunities so feel free to reach out!<br><br>- How to reach me: <b>eechan@cpp.edu</b> or my Linkedin!</p>
 
 ###
 
